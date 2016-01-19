@@ -6,6 +6,7 @@ platonic solids faces function
     map(b, range(5))
 
 Result:
+
     [4, 6, 8, 12, 20]
 
 This groovy little function returns 0 for 0 but 1 for everything else:
